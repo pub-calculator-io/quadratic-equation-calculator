@@ -13,6 +13,8 @@ Quadratic Equation Calculator is a free tool that provides a detailed solution t
 
 Quadratic Equation Calculator is a free tool that provides a detailed solution to quadratic equations by supplying the values of a, b and c.
 
+[Quadratic Equation Calculator Homepage](https://www.calculator.io/quadratic-equation-calculator/ "Quadratic Equation Calculator Homepage")
+
 __Shortcode__
 
 Use the Quadratic Equation Calculator shortcode:
