@@ -13,34 +13,35 @@ Quadratic Equation Calculator is a free tool that provides a detailed solution t
 
 Quadratic Equation Calculator is a free tool that provides a detailed solution to quadratic equations by supplying the values of a, b and c.
 
-[Quadratic Equation Calculator Homepage](https://www.calculator.io/quadratic-equation-calculator/ "Quadratic Equation Calculator Homepage")
+[https://www.calculator.io/quadratic-equation-calculator/](https://www.calculator.io/quadratic-equation-calculator/)
 
-__Shortcode__
-
-Use the Quadratic Equation Calculator shortcode:
+__Quadratic Equation Calculator Shortcode__
 
 `[ci_quadratic_equation_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_quadratic_equation_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Quadratic Equation Calculator](https://www.calculator.io/quadratic-equation-calculator/ "Quadratic Equation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Quadratic Equation Calculator Usage ==
+
 * Add the shortcode `[ci_quadratic_equation_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_quadratic_equation_calculator(); ?>` to your template where you would like the Quadratic Equation Calculator to appear.
 
 == Screenshots ==
+
 1. The Quadratic Equation Calculator Input Form.
 2. The Quadratic Equation Calculator Calculation Results.
+
+== Libraries used in Quadratic Equation Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
