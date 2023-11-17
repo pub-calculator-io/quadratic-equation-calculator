@@ -1,6 +1,6 @@
 === Quadratic Equation Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: quadratic equation calculator, ax²+bx+c&#x3D;0 solutions, quadratic formula, discriminant analysis, real and complex solutions, quadratic function graphs, algebraic operations in quadratics, second-degree polynomial, solving quadratic equations, quadratic equation applications
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
