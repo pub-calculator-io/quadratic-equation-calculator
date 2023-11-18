@@ -1,4 +1,4 @@
-# Quadratic Equation Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Quadratic Equation Calculator Widget for WordPress
 
 Quadratic Equation Calculator is a free tool that provides a detailed solution to quadratic equations by supplying the values of a, b and c.
 
