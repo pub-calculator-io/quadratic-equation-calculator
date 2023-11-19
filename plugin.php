@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Quadratic Equation Calculator by www.calculator.io
+Plugin Name: CI Quadratic equation calculator
 Plugin URI: https://www.calculator.io/quadratic-equation-calculator/
 Description: Quadratic Equation Calculator is a free tool that provides a detailed solution to quadratic equations by supplying the values of a, b and c.
 Version: 1.0.0
