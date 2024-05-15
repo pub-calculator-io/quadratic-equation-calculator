@@ -3,7 +3,6 @@
 Quadratic Equation Calculator is a free tool that provides a detailed solution to quadratic equations by supplying the values of a, b and c.
 
 ![Quadratic Equation Calculator Input Form](/assets/images/screenshot-1.png "Quadratic Equation Calculator Input Form")
-![Quadratic Equation Calculator Calculation Results](/assets/images/screenshot-2.png "Quadratic Equation Calculator Calculation Results")
 
 ## Installation
 

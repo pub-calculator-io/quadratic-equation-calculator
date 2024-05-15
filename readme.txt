@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Quadratic Equat
 == Screenshots ==
 
 1. The Quadratic Equation Calculator Input Form.
-2. The Quadratic Equation Calculator Calculation Results.
 
 == Installation ==
 

@@ -28,7 +28,7 @@
             <div class="calculator-setting" id="calculator_form">
                 <div class="calculator-content col">
                 	<div class="input-wrapper row">
-                		<label class="input col   ">
+                		<label class="input col quadratic-formula-calculator,math-equation-solver  ">
                 			<p class="input__title">ax² + bx + c &#x3D; 0</p>
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="a" value="1"  />
@@ -36,7 +36,7 @@
                 			</div>
                 		
                 		
-                		</label>		<label class="input col   ">
+                		</label>		<label class="input col quadratic-formula-calculator,math-equation-solver  ">
                 			
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="b" value="8"  />
@@ -44,7 +44,7 @@
                 			</div>
                 		
                 		
-                		</label>		<label class="input col   ">
+                		</label>		<label class="input col quadratic-formula-calculator,math-equation-solver  ">
                 			
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="c" value="12"  />
@@ -60,13 +60,16 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -81,11 +84,10 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<div class="result-table__wrapper">
-		<table class="result-table">
+		<table class="result-table animate">
 			<thead>
 				<tr>
 					<th>Equation</th>
